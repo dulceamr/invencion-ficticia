@@ -15,3 +15,5 @@ Es un proyecto ficticio, únicamente con fines educativos.
 [Roadmap]
   
 [Licencia]
+
+[agradecimientos]
